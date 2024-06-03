@@ -1,6 +1,6 @@
 # Emotive   
 ### Emotion Recognition in Speech   
-#### Sike Ogieva, Kien Tran, Bach Le and Suaryanshu Khanal
+#### Bach Le, Kien Tran, Suaryanshu Khanal and Sike Ogieva
 
 The aim of this project was to build and train neural networks to recognise the emotion in human speech. 
 
