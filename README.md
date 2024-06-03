@@ -9,3 +9,6 @@ We began by looking at previous literature to guide the building of our model. T
 The models we built were k-Nearest Neighbors, Multilayer Perceptron,  Convolutional Neural Network, Long Short Term Memory Neural Network, Combined (CNN + LSTM)  Neural Network, and a Bidirectional LSTM Neural Network. Their performance was as follows.  
 
 ![speech-recognition-model-performance](https://github.com/sike25/emotive/assets/97693483/82439903-fb65-45be-a72f-817373dd9d40)
+
+### Note
+Each milestone's directory contains detailed pdf reports and references on our work at that stage. The final presentation (uploaded) should also serve as a useful guide.
